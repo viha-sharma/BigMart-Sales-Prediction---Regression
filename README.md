@@ -22,12 +22,12 @@ Build a supervised learning regression model to predict the sales of the store.
 ### 🔸My Approach
 
 I utilised the concept of Object Oriented Programming to organise my code and maximise reusability. I created 2 classes: one for common functionalities that include data visualisation and data preprocessing, and the second, for model building and obtaining best performing model based on MSE, RMSE and r2 scores. 
+
+Linear Regression, SVC and Decision tree regressor were the Supervised machine learning models used in this project. In addition, i used ensemble techniques such as XGBoost Regressor, AdaBoost Regressor, Stacking Regressor, and Random Forest Regressor as well. 
+
 The best model obtained is the XGBoost Regressor. 
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/106082126/207529266-b348b2b7-05b4-4af7-b50e-e4e06d6712d2.png">
-
-
-Linear Regression, SVC and Decision tree regressor were the Supervised machine learning models used in this project. In addition, i used ensemble techniques such as XGBoost Regressor, AdaBoost Regressor, Stacking Regressor, and Random Forest Regressor as well. 
 
 ---
 
